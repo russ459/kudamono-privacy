@@ -1,47 +1,41 @@
+Privacy Policy
+
+Your privacy is important to us. This privacy policy explains how our app handles user data.
+
 1. Information We Collect
-We value your privacy and aim to collect the minimum amount of data necessary to provide and improve our services. Depending on your usage, we may collect:
+We do not collect any personally identifiable information (such as your name, email, phone number, or contact list) through this app.
 
-Device Information: Such as device type, OS version, and app version for bug fixing and performance monitoring.
+However, the app uses third-party services that may collect information used to identify you.
 
-Usage Data: Anonymous usage statistics (e.g., feature usage, time spent on the app) to help improve the learning experience.
+2. Advertising
+We use Google AdMob to serve ads within the app. AdMob may collect and use personal data, including your Advertising ID, device information, and app usage data to show relevant and personalized ads.
 
-Crash Reports: To identify and fix bugs or errors.
+AdMob and its partners may use cookies and other tracking technologies to personalize ads and measure performance.
 
-We do NOT collect:
+You can learn more about how Google uses data in its ad products here:
+👉 https://policies.google.com/technologies/partner-sites
 
-Personal identifying information (e.g., name, email, address)
+You can manage ad personalization settings on your device or visit:
+👉 https://www.google.com/settings/ads
 
-Location data
+3. Local Data Storage
+The app uses local storage to save your settings and preferences. This information is stored only on your device and is not shared or transmitted externally.
 
-Sensitive personal data
+Technologies used include:
 
-2. How We Use Your Information
-We use the information we collect to:
+shared_preferences (for saving preferences)
 
-Improve app performance and user experience
+sqflite (for local database storage)
 
-Monitor and analyze usage trends
+4. Connectivity Monitoring
+The app may access your network connection status to check whether you are connected to the internet. No personal or location data is collected during this check.
 
-Fix technical issues and bugs
+5. Security
+We are committed to protecting your data. Although no data is transmitted to our servers, we take steps to ensure the security of locally stored data and compliance with Google Play policies.
 
-Maintain and enhance our educational content
+6. Changes to This Policy
+We may update this privacy policy from time to time. We will notify you of any changes by updating this page.
 
-3. Data Sharing and Third Parties
-We do not sell or share your personal data with third parties.
-
-We may use trusted third-party services (e.g., analytics or crash reporting tools like Google Firebase) that process data on our behalf in accordance with their own privacy policies.
-
-4. Data Security
-We take appropriate security measures to protect your data from unauthorized access or misuse. However, please be aware that no method of electronic transmission or storage is 100% secure.
-
-5. Children’s Privacy
-Kudamono is suitable for learners of all ages, but we do not knowingly collect any personal information from children under 13. If you believe we have unintentionally collected such data, please contact us so we can delete it.
-
-
-7. Changes to This Policy
-We may update this Privacy Policy from time to time. Changes will be reflected by updating the “Effective Date” at the top of this page. We recommend reviewing it periodically.
-
-8. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-📧 Email: kudamono888@gmail.com
+7. Contact Us
+If you have any questions about this privacy policy, you can contact us at:
+ kudamono888@gmail.com
