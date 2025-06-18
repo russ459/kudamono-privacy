@@ -50,16 +50,6 @@ The app includes internal permissions (com.kudamono.yepone.DYNAMIC_RECEIVER_NOT_
 8. Data Sharing and Compliance
 We do not collect or share personal information ourselves. However, third-party services (such as Google AdMob and Google Play services) may collect and process data according to their privacy policies.
 
-If you are located in the European Economic Area (EEA), the United Kingdom, California, or other regions with data protection laws, you have certain rights under applicable privacy laws, including:
-
-The right to access, correct, or delete your personal data
-
-The right to object to or restrict certain processing
-
-The right to opt out of personalized ads (via your device settings or Google’s ad settings)
-
-We comply with all applicable privacy laws.
-
 9. Security
 We are committed to protecting your data. Although no data is transmitted to our servers, we take steps to secure data stored locally on your device and ensure compliance with Google Play policies.
 
